@@ -41,7 +41,7 @@ export default function Hero() {
           >
             PREMIER DOG GROOMING <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-primary-600">
-              IN LAREDO,TX
+              IN LAREDO,TX.
             </span>
           </motion.h1>
 
