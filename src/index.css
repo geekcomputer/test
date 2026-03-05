@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --color-primary-400: #ff7aa3;
+  --color-primary-500: #FD5B8C;
+  --color-primary-600: #e84576;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
